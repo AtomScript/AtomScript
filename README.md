@@ -28,3 +28,7 @@
 </tr>
 </table>
 
+# social media
+
+<h2><img alt="Xbox" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" width="50px"/> DiegoGamer400</h2>
+
