@@ -2,6 +2,9 @@
 <p>Pleasure, my name is Rafael. I am 16 years old</p>
 <br/>
 
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AtomScript&count_private=true&theme=blueberry"/>
+
 ### i like:
 - Computer science
 - Exact Science
