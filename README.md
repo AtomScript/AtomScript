@@ -1,5 +1,5 @@
 <h1 align="center"> Bio </h1>
-<p>Pleasure, my name is Rafael. I am 16 years old</p>
+<p>Pleasure, my name is Rafael, I am 16 years old.</p>
 <br/>
 
 # Stats
