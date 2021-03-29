@@ -1,4 +1,4 @@
-<h1 align="center"> My Awesome Readme.md 😎 </h1>
+<h1 align="center"> Bio </h1>
 <p>Pleasure, my name is Rafael. I am 16 years old</p>
 <br/>
 
@@ -7,7 +7,7 @@
 
 <br><br>
 
-# i like:
+# I like:
 - Computer science
 - Exact Science
 - Astronomy
