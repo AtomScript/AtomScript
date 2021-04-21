@@ -10,7 +10,7 @@
 
 <br><br>
 
-# occupations:
+# occupations
 <ul align="center">
 <li>Computer technician</li>
 <li>Programmer</li>
