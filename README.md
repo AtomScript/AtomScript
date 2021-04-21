@@ -14,6 +14,7 @@
 <ul align="center">
 <li>Computer technician</li>
 <li>Programmer</li>
+<li>Pentester</li>
 <li>Mathematician</li>
 <li>Football player</li>
 </ul>
