@@ -3,7 +3,7 @@
 <p>Pleasure, my name is Rafael, I am 16 years old.</p>
 <br/>
 
-<img src="https://i.ibb.co/HtjbnCt/5ed404b97ad95cae88a20b322faf2761.gif"/>
+<img src="https://s3.gifyu.com/images/rebecca_mock.gif"/>
 
 # Stats
 <img src="https://camo.githubusercontent.com/78e727843e7d7accb49c37b430867da407c6e3bfb9f440404f0fb30d5a8e29ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41746f6d53637269707426636f756e745f707269766174653d74727565267468656d653d626c75656265727279"/>
