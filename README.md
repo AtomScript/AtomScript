@@ -5,13 +5,18 @@
 
 <img src="https://s3.gifyu.com/images/rebecca_mock.gif"/>
 
-# occupations
+# Knowledge
 <ul align="center">
-<li>Computer technician</li>
-<li>Programmer</li>
-<li>Pentester</li>
-<li>Mathematician</li>
-<li>Football player</li>
+<li>Computing</li>
+<li>Programming</li>
+<li>Pentest</li>
+<li>Math</li>
+<li>Electrotechnical</li>
+</ul>
+
+# Esports
+<ul>
+<li>Football</li>
 </ul>
 <br><br>
 
