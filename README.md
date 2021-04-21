@@ -10,12 +10,13 @@
 
 <br><br>
 
-# I like:
-- Computer science
-- Exact Science
-- Astronomy
-- Esports
-
+# occupations:
+<ul align="center">
+<li>Computer technician</li>
+<li>Programmer</li>
+<li>Mathematician</li>
+<li>Football player</li>
+</ul>
 <br><br>
 
 # Languages
@@ -44,8 +45,3 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </span>
 <br><br>
-
-# social media
-
-<a><img alt="Xbox" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" width="35px"/> DiegoGamer400</a>
-
