@@ -1,6 +1,6 @@
 # 👋 Hello World 👋
 
-<p>Pleasure, my name is Rafael, I am 16 years old and I like musics, sports, programming, computing, electrotechnical, astronomy, biology and a little math</p>
+- Pleasure, my name is Rafael, I am 16 years old and I like musics, sports, programming, computing, electrotechnical, astronomy, biology and a little math
 <br/>
 
 # Knowledge
