@@ -4,7 +4,7 @@
 <br/>
 
 # Knowledge
-<ul align="center">
+<ul>
 <li>Computing</li>
 <li>Programming</li>
 <li>Pentest</li>
