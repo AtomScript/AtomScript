@@ -5,6 +5,7 @@
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbreak4ble&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unbreak4ble&layout=compact&theme=blueberry)
 
 <br><br>
 
