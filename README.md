@@ -1,8 +1,5 @@
 # 👋 Hello World 👋
 
-- Pleasure, my name is Raphael, I am 16 years old and I like musics, sports, programming, computing, electrotechnical, astronomy, biology and a little math. And one more thing, I'm a pro player in Minecraft 😎.
-<br/>
-
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbreak4ble&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unbreak4ble&layout=compact&theme=blueberry)
